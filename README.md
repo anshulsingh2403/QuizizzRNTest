@@ -1,6 +1,5 @@
 # QuizizzRNTest
-
-This is a react-native(0.65.1) project and the task will be to emulate a structure of trello. There are 2 columns that stretch along the device height and contains cards with a number on it.
+The task will be to emulate a structure of trello. There are 2 columns that stretch along the device height and contains cards with a number on it.
 
 A basic structure is present which can be altered as you like. Following is the list of tasks which you will need to perform. You are required to complete as many as you can within an approx time of 1 hour.
 
